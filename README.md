@@ -27,7 +27,7 @@ Project Objectives
 * Provide analytic insights and data-driven recommendations.
   
 ## Project Challenge
-challenge will be to conduct an exploratory data analysis to investigate if there are any patterns or themes that may influence the reduction or reorganization of inventory in the Mint Classics storage facilities. To do this, you will import the database and then analyze data. You will also pose questions, and seek to answer them meaningfully using SQL queries to retrieve data from the database provided.
+This is an exploratory data analysis to investigate if there are any patterns or themes that may influence the reduction or reorganization of inventory in the Mint Classics storage facilities. To do this, import the database and then analyze data. Also pose questions, and seek to answer them meaningfully using SQL queries to retrieve data from the database provided.
 In this project, we'll use the fictional Mint Classics relational database and a relational data model. Both will be provided.
 After you perform your analysis, you will share your findings.
 
